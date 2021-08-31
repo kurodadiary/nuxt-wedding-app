@@ -3,7 +3,7 @@ import colors from 'vuetify/es5/util/colors'
 export default {
   target: 'static',
   router: {
-    base: '/nuxt-first-app/'
+    base: '/nuxt-wedding-app/'
   },
 
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
