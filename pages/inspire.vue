@@ -14,7 +14,7 @@
           </small>
         </footer>
       </blockquote>
-      <NuxtLink to="/">Home page</NuxtLink>
+      <NuxtLink to="/">To Home page</NuxtLink>
     </v-col>
   </v-row>
 </template>
